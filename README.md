@@ -19,7 +19,6 @@ To get you going, we've got a backend just chock full of sushi just waiting to b
 1. Navigate to `sushi-saga-client` and run `json-server --watch db.json`
 2. Navigate to `http://localhost:3000/sushis` to confirm delivery of sushi!
 
-
 ### Client
 
 Just as all good sushi needs a firm base of delicious rice, we've given you quite a bit of code to start off your frontend!
@@ -53,3 +52,8 @@ If and only if you have time, you may work on the following:
 3. Anything else!
 
 **Note:** If at the end of the challenge you have achieved all the functionality required but the style looks off, this is okay!
+
+**QUESTIONS:**
+Fragment being imported????
+SushiContainer/Sushi are/not declared as components?
+event and arrowFunctions?
